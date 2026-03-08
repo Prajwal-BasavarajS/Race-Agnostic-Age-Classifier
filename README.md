@@ -105,8 +105,11 @@ The system aligns with:
 - Adjacent age groups may be difficult to distinguish
 - Dataset imbalance may affect performance
 
+
+- # Dashboard 
+
 <img width="1470" height="956" alt="Screenshot 2026-03-08 at 13 10 57" src="https://github.com/user-attachments/assets/a04862b8-0026-46a0-9747-3c04ac7eb7cb" />
 
-
+- # Edge Camera 
 <img width="1470" height="956" alt="Screenshot 2026-03-08 at 13 18 37" src="https://github.com/user-attachments/assets/80e78033-8693-498d-a755-ca8989301ecc" />
 
