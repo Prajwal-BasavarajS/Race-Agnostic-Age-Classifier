@@ -63,31 +63,15 @@ The model was evaluated using:
 
 ## Fairness Analysis
 
-- Baseline Analysis
-Fairness by race:
-race_unified	count	accuracy	macro_f1	accuracy_pct	macro_f1_pct
-0	Asian	510	0.641176	0.577362	64.12	57.74
-1	Black	652	0.575153	0.429674	57.52	42.97
-2	Indian	625	0.560000	0.487134	56.00	48.71
-3	Other	247	0.570850	0.456209	57.09	45.62
-4	White	1522	0.559790	0.542248	55.98	54.22
+- Baseline Model Analysis
 
+<img width="567" height="182" alt="Screenshot 2026-03-08 at 13 27 17" src="https://github.com/user-attachments/assets/e0404fdb-749a-4cc0-b99f-002aafd868cf" />
 
-Fairness by gender:
-gender_norm	count	accuracy	macro_f1	accuracy_pct	macro_f1_pct
-0	Female	1688	0.589455	0.519924	58.95	51.99
-1	Male	1868	0.562099	0.521521	56.21	52.15
-
-
-Fairness gap summary:
-metric	                value	            value_pct_points
-0	race_accuracy_gap  	  0.081387	            8.14
-1	race_macro_f1_gap	    0.147688	            14.77
-2	gender_accuracy_gap	  0.027356	            2.74
-3	gender_macro_f1_gap	  0.001598	            0.16
-
+<img width="536" height="116" alt="Screenshot 2026-03-08 at 13 27 25" src="https://github.com/user-attachments/assets/bccba98a-2324-4b9c-83a7-da0212f003cf" />
 
 - ## Finetune Model Fairness
+
+<img width="553" height="310" alt="Screenshot 2026-03-08 at 13 26 30" src="https://github.com/user-attachments/assets/c3711bc6-d501-4161-bee5-8bdb67d14eae" />
 
 
 
@@ -123,4 +107,6 @@ The system aligns with:
 
 <img width="1470" height="956" alt="Screenshot 2026-03-08 at 13 10 57" src="https://github.com/user-attachments/assets/a04862b8-0026-46a0-9747-3c04ac7eb7cb" />
 
+
+<img width="1470" height="956" alt="Screenshot 2026-03-08 at 13 18 37" src="https://github.com/user-attachments/assets/80e78033-8693-498d-a755-ca8989301ecc" />
 
