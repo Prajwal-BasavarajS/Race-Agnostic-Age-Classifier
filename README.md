@@ -26,7 +26,7 @@ Used for training and evaluation of the age classification model.
 Used during exploratory data analysis (EDA) to analyze demographic balance and fairness considerations.
 
 
-## Project Architecture
+## Architecture
 
 <img width="1408" height="768" alt="efficitentv2_s" src="https://github.com/user-attachments/assets/c5d475d8-f07f-45e2-b1aa-c2d2dc4b1591" />
 
