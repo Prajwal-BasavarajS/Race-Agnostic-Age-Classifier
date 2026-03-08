@@ -69,7 +69,7 @@ The model was evaluated using:
 
 <img width="536" height="116" alt="Screenshot 2026-03-08 at 13 27 25" src="https://github.com/user-attachments/assets/bccba98a-2324-4b9c-83a7-da0212f003cf" />
 
-- ## Finetune Model Fairness
+- Finetune Model Fairness
 
 <img width="553" height="310" alt="Screenshot 2026-03-08 at 13 26 30" src="https://github.com/user-attachments/assets/c3711bc6-d501-4161-bee5-8bdb67d14eae" />
 
