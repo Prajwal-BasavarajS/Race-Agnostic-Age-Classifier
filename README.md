@@ -90,3 +90,4 @@ The system aligns with:
 - Adjacent age groups may be difficult to distinguish
 - Dataset imbalance may affect performance
 
+<img width="1470" height="956" alt="Screenshot 2026-03-08 at 13 10 57" src="https://github.com/user-attachments/assets/a04862b8-0026-46a0-9747-3c04ac7eb7cb" />
