@@ -1,0 +1,11 @@
+idx,filepath,true,pred,confidence,true_bucket,pred_bucket,race_unified,gender_norm,correct
+2124,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/21_0_4_20161223214834033.jpg.chip.jpg,1,0,0.9996657371520996,13-24,0-12,Other,Male,0
+128,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/45_1_0_20170103163617968.jpg.chip.jpg,3,4,0.9983329176902771,40-59,60+,White,Female,0
+561,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/54_0_0_20170104212707930.jpg.chip.jpg,3,4,0.9977032542228699,40-59,60+,White,Male,0
+914,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/10_1_0_20170109202251032.jpg.chip.jpg,0,1,0.9949437975883484,0-12,13-24,White,Female,0
+198,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/33_0_0_20170113210319548.jpg.chip.jpg,2,4,0.9941563606262207,25-39,60+,White,Male,0
+2238,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/58_0_0_20170117194037923.jpg.chip.jpg,3,4,0.9918642044067383,40-59,60+,White,Male,0
+1993,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/54_0_0_20170113161336995.jpg.chip.jpg,3,2,0.991811990737915,40-59,25-39,White,Male,0
+513,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/50_0_3_20170117190730009.jpg.chip.jpg,3,4,0.9916431903839111,40-59,60+,Indian,Male,0
+1718,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/13_1_4_20170103212548662.jpg.chip.jpg,1,0,0.9895025491714478,13-24,0-12,Other,Female,0
+1128,/Users/prajwal/Desktop/privacy_ethics/data/UTKFace/24_1_0_20170105000720347.jpg.chip.jpg,1,2,0.9893748760223389,13-24,25-39,White,Female,0

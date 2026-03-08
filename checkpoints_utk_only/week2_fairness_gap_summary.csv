@@ -1,0 +1,5 @@
+metric,value,value_pct_points
+race_accuracy_gap,0.08138672025972027,8.14
+race_macro_f1_gap,0.14768813947072074,14.77
+gender_accuracy_gap,0.02735647523265372,2.74
+gender_macro_f1_gap,0.001597513679406748,0.16

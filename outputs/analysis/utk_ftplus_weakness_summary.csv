@@ -1,0 +1,6 @@
+check,value
+overall_test_accuracy,0.7224409448818898
+overall_test_macro_f1,0.7202996012466713
+race_macro_f1_gap,0.08492089694223481
+gender_macro_f1_gap,0.0025544988088005427
+worst_robustness_macro_f1,0.32479091753721717
